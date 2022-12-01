@@ -1,0 +1,81 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+font-family: 'Nerko One', cursive;
+
+}
+
+h3 {
+font-family: 'Annie Use Your Telescope', cursive;
+}
+
+p {
+  font-family: 'Yomogi', cursive;
+
+}
+
+
+img {
+  width: 100%;
+}
+.top-container {
+  background-color: #C4D7E0;
+}
+
+.middle-container {
+  background-color: #C4D7E0;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: #C4D7E0;
+}
+.mountain{
+width:80%;
+}
+
+.traveling {
+width: 20px;
+text-align: center;
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:30%;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+}
+
+.traveling {
+  width: 15%;
+  margin-left: auto ;
+  margin-right: auto;
+}
+
+.destinations {
+  width: 55%;
+  margin-left: auto ;
+  margin-right: auto;
+}
+
+.contact-me{
+  width: 15%;
+  margin-left: auto ;
+  margin-right: auto;
+}
